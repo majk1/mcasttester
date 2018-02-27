@@ -31,4 +31,4 @@ mcasttester <command> [options]
    
    ```
 
-[![Usage gif](https://gfycat.com/ifr/DapperOrdinaryChanticleer)](https://gfycat.com/gifs/detail/DapperOrdinaryChanticleer)
+[![Usage gif](https://thumbs.gfycat.com/DapperOrdinaryChanticleer-size_restricted.gif)](https://gfycat.com/gifs/detail/DapperOrdinaryChanticleer)
