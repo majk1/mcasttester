@@ -50,7 +50,7 @@ func main() {
 		for !gracefulStop && (loopCount <= 0 || loopCount > i) {
 			bytes := []byte(payload + " [" + strconv.Itoa(i) + "]");
 			conn.Write(bytes)
-			fmt.Printf("[%4d] Sent %d bytes to %s -> \"%s\"\n", i + 1, len(bytes), udpAddr, string(bytes))
+			fmt.Printf("[%4d] Sent %d bytes from %s to %s -> \"%s\"\n", i + 1, len(bytes), conn.LocalAddr(), udpAddr, string(bytes))
 			time.Sleep(1 * time.Second)
 			i++
 		}
