@@ -1,4 +1,4 @@
-# UDP Multicast tester CLI application
+# UDP Multicast tester CLI application [![Build Status](https://travis-ci.org/majk1/mcasttester.svg?branch=master)](https://travis-ci.org/majk1/mcasttester)
 
 ## Install
 
